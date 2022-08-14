@@ -1,0 +1,5 @@
+start.bat
+.vscode/launch.json
+log.jsonl
+route53-updater.exe
+go.sum
